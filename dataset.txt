@@ -1,0 +1,6 @@
+
+//data ini sudah dimanipulasi
+https://drive.google.com/file/d/1zYaYBJai3_BI5KJoqa0xf8mGLuIRQZh2/view?usp=sharing
+
+//sumber data asli dari kaggle
+https://www.kaggle.com/datasets/utkarshsaxenadn/flower-classification-5-classes-roselilyetc
