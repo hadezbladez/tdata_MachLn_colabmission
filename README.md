@@ -2,4 +2,5 @@
 ## dicoding submission
 What's this?
 - deep learning tensorflow
-- classify image with well-behave image comparison
+- Natural Language Processing (NLP)
+- Hard to check && not have a clean solution
