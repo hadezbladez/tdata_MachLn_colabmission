@@ -1,5 +1,5 @@
 # tdata_MachLn_colabmission
 ## dicoding submission
 What's this?
-- deep learning tensorflow
-- classify image with well-behave image comparison
+- machine learning scikit with many Differing Algorithms
+- classifying skin cancer data
