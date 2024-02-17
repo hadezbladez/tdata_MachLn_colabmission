@@ -1,4 +1,6 @@
 # tdata_MachLn_colabmission
-"friendly-pancake" << that's a quote from github inspiration
+##dicoding submission
+What's this?
 
-This is submission from dicoding.com website and its not very clean
+- deep learning tensorflow
+- Time Series checking weather data time to time
