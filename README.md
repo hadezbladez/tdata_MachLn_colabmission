@@ -1,5 +1,5 @@
 # tdata_MachLn_colabmission
 ## dicoding submission
 What's this?
-- deep learning tensorflow
-- classify image with well-behave image comparison
+- Machine Learning scikit - Content-Based Filtering
+- Film System Recommendation based on many tags
