@@ -2,4 +2,4 @@
 ## dicoding submission
 What's this?
 - deep learning tensorflow
-- classify image with well-behave image comparison
+- Model Deployment try
